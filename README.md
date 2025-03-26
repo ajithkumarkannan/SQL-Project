@@ -2,7 +2,7 @@
 
 📌 Project Overview
 
-The Hospital Database Management System (DBMS) is a structured relational database designed to manage key hospital operations, including patient records, doctor appointments, lab tests, prescriptions, billing, and insurance claims. This project ensures efficient data management and reporting, aiding healthcare facilities in streamlining administrative tasks.
+The Hospital Database Management System (DBMS) using MySQL is a structured relational database designed to manage key hospital operations, including patient records, doctor appointments, lab tests, prescriptions, billing, and insurance claims. This project ensures efficient data management and reporting, aiding healthcare facilities in streamlining administrative tasks.
 
 🏥 Features
 
