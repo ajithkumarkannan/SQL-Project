@@ -10,7 +10,7 @@ The Hospital Database Management System (DBMS) using MySQL is a structured relat
 
 * **Doctor & Appointment Tracking:** Manages doctor schedules, appointments, and consultation fees.
 
-* **Lab & Prescription Records:**Tracks lab tests, medications, and treatment plans.
+* **Lab & Prescription Records:** Tracks lab tests, medications, and treatment plans.
 
 * **Billing & Insurance Processing:** Computes total revenue, insurance claims, and outstanding balances.
 
